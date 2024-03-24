@@ -1,0 +1,16 @@
+* {
+  margin: auto;
+}
+
+input{
+  display: block;
+  width: 60%;
+  margin-bottom: 20px;
+}
+button{
+  display: block;
+  width: 60%;
+  height: 100px;
+  background-color:transparent;
+  border: 1px solid black;
+}
